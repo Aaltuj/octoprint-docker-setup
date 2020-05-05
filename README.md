@@ -15,3 +15,5 @@
 
 you should now have a working Octoprint with webcam support. 
 Don't forget to update the usb devices and webcam locations if necessary 
+
+> TESTED ON A RASPBERRY PI 2 B with Ubuntu server
