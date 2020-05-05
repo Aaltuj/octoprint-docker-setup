@@ -11,5 +11,7 @@
 - Snapshot URL: `http://{IP or HOSTNAME}:8080/?action=snapshot`
 - Path to FFMPEG: `/opt/ffmpeg/ffmpeg`
 
+> TIP: use `docker inspect {container-name of mjp-stream}` to find the IP adress for the **snapshot url**
+
 you should now have a working Octoprint with webcam support. 
 Don't forget to update the usb devices and webcam locations if necessary 
